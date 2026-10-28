@@ -8,6 +8,7 @@ Thank you for downloading hSystems!
 - Scaled Decorator *
 - Niako's Utilities *
 - VertexColorMapEmissive *
+- Sushut Example System (PLACEHOLDER TEXTURES)
 
 # Recommended mods:
 - EVE Volumetrics V5 (No V3 support!)
