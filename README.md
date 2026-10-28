@@ -1,18 +1,16 @@
-# hSystems
-
+# hSystems v0.0.1
 hSystems is an interstellar system pack for Kerbal Space Program
 
 Thank you for downloading hSystems!
 
-## DEPENDENCIES
-
+# Dependencies:
 - Kopernicus
 - Scaled Decorator *
 - Niako's Utilities *
 - VertexColorMapEmissive *
+- Sushut Example System (PLACEHOLDER TEXTURES)
 
-## RECCOMMENDED
-
+# Recommended mods:
 - EVE Volumetrics V5 (No V3 support!)
 - Scatterer
 - Parallax Continued *
@@ -21,13 +19,11 @@ Thank you for downloading hSystems!
 
 \* currently unimplemented
 
-## INSTALLATION
-
+# Installation:
 - Put the hSystems folder in GameData
 - That's it
 
-## CREDITS
-
+# Credits:
 - h - Development
 - QuantumsHevy - Development
 - wombo_ - Uung concept and data
