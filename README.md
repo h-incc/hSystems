@@ -6,7 +6,7 @@ It is very early in development, and uses many placeholder textures. Not current
 - Kopernicus
 - Scaled Decorator *
 - Niako's Utilities *
-- VertexColorMapEmissive *
+- VertexColorMapEmissive
 - Sushut Example System (PLACEHOLDER TEXTURES)
 
 # Recommended mods:
