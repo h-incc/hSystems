@@ -1,4 +1,4 @@
-# hSystems v0.0.1
+# hSystems v0.0.2
 hSystems is an interstellar system pack for Kerbal Space Program
 It is very early in development, and uses many placeholder textures. Not currently suitable for gameplay.
 
@@ -14,7 +14,8 @@ It is very early in development, and uses many placeholder textures. Not current
 - Scatterer
 - Parallax Continued *
 - Deffered
-- FireFly
+- FireFly *
+- Tilt'Em *
 
 \* currently unimplemented
 
@@ -25,5 +26,5 @@ It is very early in development, and uses many placeholder textures. Not current
 # Credits:
 - h - Development
 - QuantumsHevy - Development
-- wombo_ - Uung concept and data
+- wombo_ - Uung concept, description, and data
 - Sushut - Example system configs
