@@ -1,4 +1,4 @@
-# hSystems v0.0.2
+# hSystems v0.0.3
 hSystems is an interstellar system pack for Kerbal Space Program
 It is very early in development, and uses many placeholder textures. Not currently suitable for gameplay.
 
@@ -6,16 +6,16 @@ It is very early in development, and uses many placeholder textures. Not current
 - Kopernicus
 - Scaled Decorator *
 - Niako's Utilities *
-- VertexColorMapEmissive *
+- VertexColorMapEmissive
 - Sushut Example System (PLACEHOLDER TEXTURES)
 
-# Recommended mods:
+# (Highly) Recommended mods:
 - EVE Volumetrics V5 (No V3 support!)
 - Scatterer
 - Parallax Continued *
 - Deffered
 - FireFly *
-- Tilt'Em *
+- Tilt'Em
 
 \* currently unimplemented
 
