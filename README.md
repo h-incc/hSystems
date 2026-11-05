@@ -1,4 +1,4 @@
-# hSystems v0.0.4
+# hSystems v0.0.5
 hSystems is an interstellar system pack for Kerbal Space Program
 It is very early in development, and uses many placeholder textures. Not currently suitable for gameplay.
 
