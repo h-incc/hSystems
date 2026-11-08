@@ -1,11 +1,11 @@
-# hSystems v0.0.5
-hSystems is an interstellar system pack for Kerbal Space Program
+# hSystems v0.0.6
+hSystems is an interstellar system pack for Kerbal Space Program.
 It is very early in development, and uses many placeholder textures. Not currently suitable for gameplay.
 
 # Dependencies:
 - Kopernicus
 - Scaled Decorator *
-- Niako's Utilities *
+- Niako's Utilities
 - VertexColorMapEmissive
 - Sushut Example System (PLACEHOLDER TEXTURES)
 
