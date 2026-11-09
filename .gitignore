@@ -3,6 +3,10 @@
 Thumbs.db
 desktop.ini
 
+# Junction-created cache
+GameData/hSystems/_Systems/Uung/Cache/*.bin
+GameData/hSystems/_Systems/Myrh/Cache/*.bin
+
 # Editors
 .vs/
 .vscode/
