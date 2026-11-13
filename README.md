@@ -1,4 +1,4 @@
-# hSystems v0.0.6
+# hSystems v0.0.7
 
 **hSystems** is an interstellar system pack for Kerbal Space Program.
 It's *very* early in development and uses many placeholder textures. Not currently suitable for gameplay.
@@ -12,12 +12,14 @@ It's *very* early in development and uses many placeholder textures. Not current
 
 ## Recommendations
 
+These are required for the intended experience but are not explicitly required
+
 - [True Volumetric Clouds V5](https://www.patreon.com/blackrack/posts/true-volumetric-139879553) (No V3 support!)
 - [Scatterer](https://github.com/LGhassen/Scatterer)
 - [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued)*
 - [Deffered](https://github.com/LGhassen/Deferred)
 - [Firefly](https://github.com/M1rageDev/Firefly)*
-- [Tilt'Em Contunued](https://github.com/ballisticfox/TiltEm-Continued)
+- [Tilt'Em Continued](https://github.com/ballisticfox/TiltEm-Continued)
 
 \* not currently implemented
 
@@ -31,6 +33,12 @@ After installing all the required mods and their dependencies, download the repo
 - **[Quantums Hevy](https://github.com/QuantumsHevy)**, developer
 - **wombo_**, Uung concept, description, and data
 - **[Sushut](https://github.com/Sushutt)**, author of some example system configs
+
+## Discord
+
+Finding bugs? Have suggestions? Want to help and support the project? Join our discord!
+
+[hSystems Discord](https://discord.gg/gzcz3mTWhW)
 
 ## License
 
