@@ -1,4 +1,4 @@
-# hSystems v0.0.7
+# hSystems v0.0.8
 
 **hSystems** is an interstellar system pack for Kerbal Space Program.
 It's *very* early in development and uses many placeholder textures. Not currently suitable for gameplay.
@@ -31,7 +31,7 @@ After installing all the required mods and their dependencies, download the repo
 
 - **[h](https://github.com/h-incc)**, developer
 - **[Quantums Hevy](https://github.com/QuantumsHevy)**, developer
-- **wombo_**, Uung concept, description, and data
+- **womby_**, Uung concept, description, and data
 - **[Sushut](https://github.com/Sushutt)**, author of some example system configs
 
 ## Discord
