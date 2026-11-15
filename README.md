@@ -18,7 +18,7 @@ These are required for the intended experience but are not explicitly required
 - [Scatterer](https://github.com/LGhassen/Scatterer)
 - [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued)*
 - [Deffered](https://github.com/LGhassen/Deferred)
-- [Firefly](https://github.com/M1rageDev/Firefly)*
+- [Firefly](https://github.com/M1rageDev/Firefly)
 - [Tilt'Em Continued](https://github.com/ballisticfox/TiltEm-Continued)
 
 \* not currently implemented
