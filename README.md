@@ -1,7 +1,15 @@
-# hSystems v0.0.8
+# hSystems v0.0.9
 
 **hSystems** is an interstellar system pack for Kerbal Space Program.
 It's *very* early in development and uses many placeholder textures. Not currently suitable for gameplay.
+
+This mod includes:
+- A Post-AGB star evaporating into space and its range of scorched planets
+- An oddly familiar system with an array of challenging destinations
+- Configurable settings to tweak your experience
+- Wormholes (requires [Singularity](https://github.com/LGhassen/Singularity) and [KopernicusExpansion](https://github.com/VabienArt/KopernicusExpansion-Continueder))
+- High fidelity visuals
+- Growing compatibility and new features to come
 
 ## Dependencies
 
